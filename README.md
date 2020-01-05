@@ -15,9 +15,9 @@ Nonetheless, to grasp the fundamentals is important.
 
 [gpakosz/.tmux](https://github.com/gpakosz/.tmux)
 
-Old [protesilaos/dotfiles](https://gitlab.com/protesilaos/cpdfd/tree/master/tmux) Tmux+Vim configuration
+[colbycheeze/dotfiles](https://github.com/colbycheeze/dotfiles/blob/master/tmux.conf)
 
-[]()
+Old [protesilaos/dotfiles](https://gitlab.com/protesilaos/cpdfd/tree/master/tmux) Tmux+Vim configuration
 
 []()
 
