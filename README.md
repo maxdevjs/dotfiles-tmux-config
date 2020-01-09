@@ -31,6 +31,8 @@ Old [protesilaos/dotfiles](https://gitlab.com/protesilaos/cpdfd/tree/master/tmux
 
 ### Videos
 
+[upcase/tmux](https://thoughtbot.com/upcase/tmux)
+
 A couple interesting and up-to-date videos about [tmux](https://tmux.github.io/) and [byobu](https://byobu.org/):
 
 - [Introduction to terminal multiplexers - Part 1 - #Screen #tmux #Byobu](https://www.youtube.com/watch?v=R0upAE692fY)
