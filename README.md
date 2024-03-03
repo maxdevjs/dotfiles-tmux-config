@@ -13,4 +13,5 @@ Old configuration: [maxdevjs/dotfiles-tmux-config/tree/mine-older](https://githu
 - [ ] automatic plugin install
 	- [ ] `git clone https://github.com/tmux-plugins/tpm $HOME/.config/tmux/plugins/tpm`
 		- [ ] (?) `$HOME/.config/tmux/plugins/tpm/bin/install_plugins`
+      - [ ] [Installing plugins](https://github.com/tmux-plugins/tpm/blob/master/docs/managing_plugins_via_cmd_line.md#installing-plugins)
 
